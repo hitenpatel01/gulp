@@ -1,0 +1,24 @@
+{
+  "version": "v4",
+  "repo": "DefinitelyTyped/DefinitelyTyped",
+  "ref": "master",
+  "path": "type-definitions",
+  "bundle": "TypeDefinitions/tsd.d.ts",
+  "installed": {
+    "angularjs/angular.d.ts": {
+      "commit": "5ff2770b384dcfef0c25b04472f59d3fc39e1919"
+    },
+    "angularjs/angular-route.d.ts": {
+      "commit": "5ff2770b384dcfef0c25b04472f59d3fc39e1919"
+    },
+    "angularjs/angular-mocks.d.ts": {
+      "commit": "5ff2770b384dcfef0c25b04472f59d3fc39e1919"
+    },
+    "jasmine/jasmine.d.ts": {
+      "commit": "5ff2770b384dcfef0c25b04472f59d3fc39e1919"
+    },
+    "jquery/jquery.d.ts": {
+      "commit": "5ff2770b384dcfef0c25b04472f59d3fc39e1919"
+    }
+  }
+}
